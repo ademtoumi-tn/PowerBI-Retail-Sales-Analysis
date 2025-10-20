@@ -19,7 +19,7 @@ This project is a full Business Intelligence case study in Power BI, analyzing r
   3. Customer Insights
 
 ## Screenshots
-![Sales Overview](power bi.png)  
+![Sales Overview](sales_overview.png)  
 ![Product Insights](power_dash.png)  
 ![Customer Insights](power_fdash.png)
 
