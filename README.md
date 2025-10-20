@@ -19,9 +19,9 @@ This project is a full Business Intelligence case study in Power BI, analyzing r
   3. Customer Insights
 
 ## Screenshots
-![Sales Overview](Screenshots/Sales_Overview.png)  
-![Product Insights](Screenshots/Product_Insights.png)  
-![Customer Insights](Screenshots/Customer_Insights.png)
+![Sales Overview](power bi.png)  
+![Product Insights](power_dash.png)  
+![Customer Insights](power_fdash.png)
 
 ## Business Insights
 - Growth dropped by 27% → pricing or marketing strategy needed.  
